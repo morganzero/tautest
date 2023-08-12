@@ -1,0 +1,14 @@
+[
+  {
+    "id": "server1",
+    "name": "Server 1",
+    "url": "http://server1-url",
+    "token": "server1-token"
+  },
+  {
+    "id": "server2",
+    "name": "Server 2",
+    "url": "http://server2-url",
+    "token": "server2-token"
+  }
+]
